@@ -1,1 +1,0 @@
-# Flex-box-image-gallery
